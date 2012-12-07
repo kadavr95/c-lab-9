@@ -13,7 +13,7 @@ return 0;
 }
 
 int recur(int mm,int nn) {
- printf("%d %d\n",mm,nn);
+ //printf("%d %d\n",mm,nn);
 if ((mm==0)||(nn==0))
  {
    return (nn+1);
